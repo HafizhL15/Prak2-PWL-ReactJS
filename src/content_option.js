@@ -1,4 +1,10 @@
-
+// import Img0 from './assets/images/Project1.jpg';
+// import Img1 from '../images/1.png';
+// import Img2 from '../images/2.png';
+// import Img3 from '../images/3.png';
+// import Img4 from '../images/4.png';
+// import Img5 from '../images/5.png';
+// import Img6 from '../images/6.png';
 
 const logotext = "HAFIZH";
 const meta = {
@@ -72,7 +78,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://picsum.photos/400/800/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
